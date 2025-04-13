@@ -4,7 +4,6 @@ import logging
 import math
 import aiomysql
 import re
-132132
 from datetime import datetime, timedelta
 from telegram import (
     Update,
